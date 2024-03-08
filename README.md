@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/amjadsh97/rest-countires-api)
-- Live Site URL: [Live site](https://rest-countires-api.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/amjadsh97/ecommerce-product-page)
+- Live Site URL: [Live site](https://ecommerce-product-page-sigma-one.vercel.app/)
 
 ## My process
 
@@ -69,11 +69,6 @@ export const StateProvider = ({ children }) => {
 		</StateContext.Provider>
 	);
 };
-```
-
-#### CSS code
-```css
-
 ```
 
 ### Continued development
